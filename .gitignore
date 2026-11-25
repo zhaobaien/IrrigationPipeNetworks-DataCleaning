@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+*.csv
+!/network_topology.csv
+*.xlsx
+*.parquet
+**/outputs/
+**/analysis_results/
+**/cleaning_results/
+**/temp_injection/
+**/preprocessed/
+**/credibility_summary.json
+**/evaluation_split_manifest.json
+**/progress.json
+*_ckpt.pth
