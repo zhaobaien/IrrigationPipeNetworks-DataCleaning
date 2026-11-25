@@ -44,6 +44,6 @@ The bundled model states and parameter files can be reused for inference. With t
 
 `evaluation/unified_physical_evaluation.py` retains the historical report-set and tolerance options. The historical conductance baseline and the single-window case scripts retain their original methods and are documented in their respective modules.
 
-## Use notice
+## Licence
 
-The source project's use notice specifies academic research and internal use. Publication and downstream reuse terms for the code and model artefacts are subject to confirmation by the rights holder.
+The project-specific code, model configurations, fitted parameters and trained weights are available for non-commercial academic research or teaching under the [Academic Use Only Licence](LICENSE). See [Field data access](DATA_ACCESS.md) for the separate conditions that apply to the topology and field data.
